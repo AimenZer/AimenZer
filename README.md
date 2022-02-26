@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aimen-zeroual" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aimen-zeroual" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/aimenzer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aimenzer" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15441965/aimenzer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aimenzer" height="30" width="40" /></a>
 <a href="https://instagram.com/_aymenzeroual" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aymenzeroual" height="30" width="40" /></a>
 </p>
 <!--
